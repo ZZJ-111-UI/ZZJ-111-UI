@@ -51,3 +51,39 @@ I enjoy building distinctive visual systems through typography, color, graphics 
 
 Email: 你的邮箱  
 Portfolio: 你的作品集链接
+# ZIJIAN ZHAO
+
+## Brand Designer / Visual Designer
+
+Focused on brand identity, visual systems, typography and packaging design.
+<br>
+
+<img src="./012210203 (1)1 - 副本-05.jpg" width="100%">
+
+<br>
+## SELECTED WORK
+
+# SHAN YE / 山也
+
+**Brand Identity · Packaging · Illustration**
+
+SHAN YE is an agricultural product brand inspired by natural landscapes and regional culture.  
+The project develops a complete visual identity through custom typography, illustration and packaging applications.
+
+<br>
+
+### Visual Identity
+
+<img src="./012210203 (1)1 - 副本-09.jpg" width="100%">
+
+<br>
+
+### Packaging Illustration
+
+<img src="./012210203 (1)1 - 副本-13.jpg" width="100%">
+
+<br>
+
+### Packaging Application
+
+<img src="./012210203 (1)1 - 副本-17.jpg" width="100%">
