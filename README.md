@@ -1,30 +1,53 @@
-# Hi, I'm Zijian Zhao 👋
+# ZIJIAN ZHAO
 
-Brand Designer / Visual Designer
+### Brand Designer / Visual Designer
 
-I focus on brand identity, visual systems and creative design.
+Focused on brand identity, visual systems, typography and packaging design.
 
-## Selected Works
+---
 
-### SHANYE / 山也
-Brand Identity · Packaging · Illustration
+## SELECTED WORKS
 
-### LESHENG / 乐生
-Brand Naming · Typography · Visual Identity
+### 山也 SHANYE
+**Brand Identity · Packaging · Illustration**
 
-### Project 03
-Brand Identity · Graphic Design
+A contemporary tea brand inspired by mountains, nature and oriental aesthetics.
 
-## Skills
+### 乐生 LESHENG
+**Typography · Logo Design · Visual Identity**
 
-Brand Identity  
-Visual Design  
-Typography  
-Packaging Design  
-Illustration  
-Adobe Illustrator / Photoshop
+An experimental Chinese typography and brand identity project.
 
-## Contact
+### Visual Exploration
+**Poster Design · Typography · Graphic Design**
 
-Email: 你的邮箱
+Selected explorations in visual communication, typography and graphic systems.
+
+---
+
+## ABOUT
+
+I'm a brand designer focusing on **brand identity, typography, packaging and visual communication**.
+
+I enjoy building distinctive visual systems through typography, color, graphics and brand storytelling.
+
+---
+
+## SKILLS
+
+- Brand Identity
+- Visual Design
+- Typography
+- Logo Design
+- Packaging Design
+- Poster Design
+- Illustration
+- Adobe Illustrator
+- Adobe Photoshop
+
+---
+
+## CONTACT
+
+Email: 你的邮箱  
 Portfolio: 你的作品集链接
