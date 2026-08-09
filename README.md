@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Zijian Zhao 👋
 
-<!--
-**ZZJ-111-UI/ZZJ-111-UI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Research Interests
+- Spatiotemporal Forecasting
+- Graph Neural Networks
+- Deep Learning
+- Intelligent Transportation Systems
+- Time Series Analysis
 
-Here are some ideas to get you started:
+### Technical Skills
+**Languages:** Python, C/C++  
+**Deep Learning:** PyTorch  
+**Research:** GNN, Spatiotemporal Modeling, Time Series Forecasting  
+**Tools:** Git, Linux, LaTeX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+#### 🚦 Spatiotemporal Traffic Forecasting
+Deep learning models for traffic speed / flow forecasting based on graph neural networks and temporal modeling.
+
+#### 🧠 Graph Neural Network Models
+Implementation and experiments of GCN, ChebNet and spatiotemporal graph neural network architectures.
+
+#### 📈 Time Series Forecasting
+Research and implementation of deep learning methods for multivariate time-series forecasting.
+
+### Research
+
+My research focuses on **spatiotemporal data mining, graph neural networks, and intelligent transportation systems**, with particular interest in modeling complex spatial-temporal dependencies for forecasting tasks.
+
+### Contact
+
+- GitHub: **ZZJ-111-UI**
+- Email: Add your academic or professional email here
