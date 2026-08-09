@@ -1,34 +1,30 @@
 # Hi, I'm Zijian Zhao 👋
 
-### Research Interests
-- Spatiotemporal Forecasting
-- Graph Neural Networks
-- Deep Learning
-- Intelligent Transportation Systems
-- Time Series Analysis
+Brand Designer / Visual Designer
 
-### Technical Skills
-**Languages:** Python, C/C++  
-**Deep Learning:** PyTorch  
-**Research:** GNN, Spatiotemporal Modeling, Time Series Forecasting  
-**Tools:** Git, Linux, LaTeX
+I focus on brand identity, visual systems and creative design.
 
-### Featured Projects
+## Selected Works
 
-#### 🚦 Spatiotemporal Traffic Forecasting
-Deep learning models for traffic speed / flow forecasting based on graph neural networks and temporal modeling.
+### SHANYE / 山也
+Brand Identity · Packaging · Illustration
 
-#### 🧠 Graph Neural Network Models
-Implementation and experiments of GCN, ChebNet and spatiotemporal graph neural network architectures.
+### LESHENG / 乐生
+Brand Naming · Typography · Visual Identity
 
-#### 📈 Time Series Forecasting
-Research and implementation of deep learning methods for multivariate time-series forecasting.
+### Project 03
+Brand Identity · Graphic Design
 
-### Research
+## Skills
 
-My research focuses on **spatiotemporal data mining, graph neural networks, and intelligent transportation systems**, with particular interest in modeling complex spatial-temporal dependencies for forecasting tasks.
+Brand Identity  
+Visual Design  
+Typography  
+Packaging Design  
+Illustration  
+Adobe Illustrator / Photoshop
 
-### Contact
+## Contact
 
-- GitHub: **ZZJ-111-UI**
-- Email: Add your academic or professional email here
+Email: 你的邮箱
+Portfolio: 你的作品集链接
